@@ -2,3 +2,6 @@ description: BSP Display rotation example
 dependencies:
   m5stack_core_s3:
     version: "*"
+  esp_codec_dev:
+    public: true
+    version: "==1.1.0"
